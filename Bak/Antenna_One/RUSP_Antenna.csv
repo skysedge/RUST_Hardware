@@ -1,0 +1,7 @@
+"Qty","Stock","Description","Ref Des","Manufacturer","Part No.","Cost Each","Cost per ASM"," ","Footprint"
+"1","0","Antenna","AE1, ","Molex","1462000011","0","=A2*G2"," ","MyFootprints:Antenna_Molex_1462000011"
+"1","0","2.7pF","C1, ","Murata","GJM1555C1H2R7WB01D ","0","=A3*G3"," ","Capacitor_SMD:C_0402_1005Metric"
+"1","0",".5pF","C2, ","Murata","GJM1555C1HR50RB12D ","0","=A4*G4"," ","Capacitor_SMD:C_0402_1005Metric"
+"1","0","u.FL","J1, ","Molex","0734120110","0","=A5*G5"," ","Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical"
+"1","0","7.5nH","L1, ","Murata","LQW18AN7N5C80","0","=A6*G6"," ","Inductor_SMD:L_0603_1608Metric"
+" "," "," "," "," "," ","TOTAL:","=SUM(H3:H6)"

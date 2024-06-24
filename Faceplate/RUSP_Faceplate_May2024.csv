@@ -1,0 +1,6 @@
+"Qty","Stock","Description","Reference","Manufacturer","Part Number","Cost Each","Cost per ASM"," ","Footprint"
+"1","0",".1uF","C1, ","Walsin","0603B104K250CT","0","=A2*G2"," ","Capacitor_SMD:C_0603_1608Metric"
+"4","0","M2 SMT Nut","H1, H2, H3, H5, ","PEM","SMTSO-M2-3ET ","0","=A3*G3"," ","MyFootprints:SMTSO-M2-3ET"
+"1","0","3mm Magnet","H4, ","K&J","N42P120060","0","=A4*G4"," ","MyFootprints:3mmMagnetHole"
+"1","0","HallSwitch","U1, ","Diodes Inc.","AH1806-W-7","0","=A5*G5"," ","MyFootprints:SC-59"
+" "," "," "," "," "," "

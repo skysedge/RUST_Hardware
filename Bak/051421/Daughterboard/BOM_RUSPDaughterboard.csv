@@ -1,0 +1,24 @@
+    AE1	Antenna_Chip	MyFootprints:XCVR_NN02-232	~				Molex	1462000011		1
+>  C1-C4	47pF/50V	Resistor_SMD:R_0402_1005Metric	~				Murata	GRM1555C1H470JA01D		4
+">  C5, C44, C45"	...	...	...	...	...	...	Kemet	C0402C104K4RACTU		3
+    C6	2.7pF	Capacitor_SMD:C_0402_1005Metric	~				Murata	GRM1555C1H2R7CA01D		1
+    C7	.5pF	Capacitor_SMD:C_0402_1005Metric	~				Murata	GJM1555C1HR50BB01D		1
+>  D1-D4	D_TVS	Resistor_SMD:R_0402_1005Metric	~				Littelfuse	PESD0402-140		4
+    D5	D_Schottky	Diode_SMD:D_SOD-123	~				ON Semiconductor	MBR130T3G		1
+">  D6, D7"	1N4148	Diode_SMD:D_SOD-123	http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf				Diodes Incorporated	 1N4148W-13-F		2
+>  FID1-FID6	Fiducial	Fiducial:Fiducial_0.75mm_Dia_1.5mm_Outer								6
+    J1	Conn_Coaxial	Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical	 ~				Molex	734120110		1
+    J2	SIM	MyFootprints:SIMHolder_Amph7111S2015X02LF	https://www.amphenol-icc.com/media/wysiwyg/files/drawing/vjw54355.pdf?__cf_chl_jschl_tk__=6709589a3af4b46aba408aac8aa9a4546a40fcc8-1592596583-0-AdRo9b0fIzSePuGpexo6G0I5jYytNi7N34wgoePkaU4fC3BgJSOyj0Kos29WG--J4sChZvqdr7YMcZyE8vi3WeinM9jFbxzLD62-yp3h_Pvl1a7iSYEzfqNoa0KPMvPrK6Ft9ZGzGlVAMrJ3JCYVnXSucmRIuGUvsVDCAmN_zvFLGQLRE8V3B_PJKokhpT1BTAPAR-S-h7Fs7RGvj3v8RtjnKT_7IBX4B8q4WAuCxx3l54ikbaJYbGoGoxzlmNr_Lm97jf_WYbqihhkKY7UOXpyc4C6BUWdRueqKW-r0CGTRxINQ-VMyYG5Vyj85BqSSFe4MLtZEjDAA588lgKlgG5AY3i2iU1x67TT8sgdanDcxqEIWegSJTaUYUiCScvM0_am4OAlmPf7fRIhUgRcTwk8				Amphenol	7111S2015X02LF		1
+    J4	USB_B_Micro	MyFootprints:AMPHENOL_MicroUSB_10118194-0001LF	~				Amphenol	10118194-0001LF		1
+">  J3, J6"	Conn_01x12	MyFootprints:Samtec_2x6HeaderSocket_FLE-106-01-G-DV	~				Samtec	FLE-106-01-G-DV		2
+    J7	Micro_SD_Card_Det	digikey-footprints:MicroSDSocket_GCT_MEM2061-01-188-00-A	https://gct.co/files/drawings/mem2061.pdf				GCT	MEM2061-01-188-00-A		1
+    K1	EE2-3TNU 	MyFootprints:Relay_Kemet_EE2-3TNU					Kemet	EE2-3TNU 	ON	1
+    L1	Ferrite_Bead	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	~				Laird	MI0805K601R-10		1
+>  L2-L4	7.5nH	Inductor_SMD:L_0402_1005Metric	~				TE	36501E7N5JTDG		3
+">  LOGO1, LOGO2"	...	MyFootprints:SkysEdge_18mm	~							2
+>  MH1-MH4	MountingHole	...	~							4
+>  R31-R33	100k	Resistor_SMD:R_0402_1005Metric	~				Yageo	RC0402FR-07100KL		
+		3								
+">  R1, R34"	...	Resistor_SMD:R_0402_1005Metric	~				TE	CRGCQ0402J10K		
+		2								
+    U11	TXB0104D	Package_SO:SOIC-14_3.9x8.7mm_P1.27mm	http://www.ti.com/lit/ds/symlink/txb0104.pdf				TI	TXB0104D		1

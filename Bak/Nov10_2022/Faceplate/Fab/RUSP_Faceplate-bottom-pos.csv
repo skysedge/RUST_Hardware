@@ -1,0 +1,8 @@
+Ref,FiducialFiducial_0.75mm_Dia_1.5mm_Outer,Val,Package,PosX,PosY,Rot,Side
+FID1,FiducialFiducial_0.75mm_Dia_1.5mm_Outer,Fiducial,Fiducial_0.75mm_Dia_1.5mm_Outer,22,-19,0,bottom
+FID2,FiducialFiducial_0.75mm_Dia_1.5mm_Outer,Fiducial,Fiducial_0.75mm_Dia_1.5mm_Outer,-20.5,-19,0,bottom
+FID3,FiducialFiducial_0.75mm_Dia_1.5mm_Outer,Fiducial,Fiducial_0.75mm_Dia_1.5mm_Outer,0,17,0,bottom
+H1,MountingHoleSMTSO-M2-3ET,MountingHole,SMTSO-M2-3ET,14,14,0,bottom
+H2,MountingHoleSMTSO-M2-3ET,MountingHole,SMTSO-M2-3ET,26.5,4.5,0,bottom
+H3,MountingHoleSMTSO-M2-3ET,MountingHole,SMTSO-M2-3ET,-9,-13.5,0,bottom
+H5,MountingHoleSMTSO-M2-3ET,MountingHole,SMTSO-M2-3ET,-12,14,0,bottom

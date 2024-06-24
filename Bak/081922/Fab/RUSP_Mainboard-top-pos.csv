@@ -1,0 +1,76 @@
+Ref,ValPackage,Val,Package,PosX,PosY,Rot,Side
+C2,.1uFC_0603_1608Metric,.1uF,C_0603_1608Metric,15.35,-72.4,-90,top
+C16,10uF/35VR_1206_3216Metric,10uF/35V,R_1206_3216Metric,23.75,-61.2,0,top
+C20,4.7uF/25VC_0805_2012Metric,4.7uF/25V,C_0805_2012Metric,5.65,-80,90,top
+C21,4.7uF/25VC_0805_2012Metric,4.7uF/25V,C_0805_2012Metric,30.15,-88.42,90,top
+C22,4.7uF/25VC_0805_2012Metric,4.7uF/25V,C_0805_2012Metric,21.85,-88.9,90,top
+C24,1uF/50VC_0805_2012Metric,1uF/50V,C_0805_2012Metric,31.65,-80.02,180,top
+C26,1uF/50VC_0805_2012Metric,1uF/50V,C_0805_2012Metric,35.25,-78.3,90,top
+C27,1uF/50VC_0805_2012Metric,1uF/50V,C_0805_2012Metric,47.8,-88.72,-90,top
+C29,1uF/50VC_0805_2012Metric,1uF/50V,C_0805_2012Metric,47.25,-78.7,0,top
+C30,68pF/50VC_0603_1608Metric,68pF/50V,C_0603_1608Metric,10.865,3,180,top
+C31,15pF/50VC_0603_1608Metric,15pF/50V,C_0603_1608Metric,29.85,3.4,0,top
+C32,8.2pF/50VC_0603_1608Metric,8.2pF/50V,C_0603_1608Metric,49.765,0.6,0,top
+C33,10nF/16VC_0603_1608Metric,10nF/16V,C_0603_1608Metric,44.5,-20.9,0,top
+C34,.1uFC_0603_1608Metric,.1uF,C_0603_1608Metric,37.375,-25,0,top
+C36,1uF/16VC_0805_2012Metric,1uF/16V,C_0805_2012Metric,4.65,-21.3,180,top
+C38,1uF/16VC_0805_2012Metric,1uF/16V,C_0805_2012Metric,4.65,-19.05,0,top
+C40,1uF/16VC_0805_2012Metric,1uF/16V,C_0805_2012Metric,4.15,-69,-90,top
+C41,4.7uF/25VC_0805_2012Metric,4.7uF/25V,C_0805_2012Metric,3.65,-72.9375,-90,top
+C44,4.7uF/25VC_0805_2012Metric,4.7uF/25V,C_0805_2012Metric,3.35,-75.85,0,top
+C64,.1uFC_0603_1608Metric,.1uF,C_0603_1608Metric,3.45,-62.9,180,top
+C65,.1uFC_0603_1608Metric,.1uF,C_0603_1608Metric,11.25,-64.71,0,top
+C66,1uFC_0402_1005Metric,1uF,C_0402_1005Metric,11.25,-88,-90,top
+C67,.1uFC_0603_1608Metric,.1uF,C_0603_1608Metric,13.6,-87.9,-90,top
+C68,10nFC_0603_1608Metric,10nF,C_0603_1608Metric,16.85,-80.4,0,top
+C69,10nFC_0603_1608Metric,10nF,C_0603_1608Metric,16.85,-82.1,0,top
+D1,White Bell LEDOsram_1212,White Bell LED,Osram_1212,5.471501,-84.138003,53,top
+D4,Green LEDLED_0603_1608Metric_Castellated,Green LED,LED_0603_1608Metric_Castellated,16.25,-93.4,-21,top
+D5,Amber LEDLED_0603_1608Metric_Castellated,Amber LED,LED_0603_1608Metric_Castellated,11.146354,-91.1,-28,top
+D10,MBR0530 Diode for ePaperD_SOD-123,MBR0530 Diode for ePaper,D_SOD-123,22.72,-85.18,0,top
+D11,MBR0530 Diode for ePaperD_SOD-123,MBR0530 Diode for ePaper,D_SOD-123,45.25,-89.02,90,top
+D12,MBR0530 Diode for ePaperD_SOD-123,MBR0530 Diode for ePaper,D_SOD-123,26.035,-88.18,0,top
+D23,20V 500mA Schottky for 12V StageD_SOD-123,20V 500mA Schottky for 12V Stage,D_SOD-123,19.7,-61.7,90,top
+J1,USB C ReceptacleUSBC_CUI_UJ31-CH-G1-SMT-TR,USB C Receptacle,USBC_CUI_UJ31-CH-G1-SMT-TR,36.75,-92.525,0,top
+J2,Poke-In Battery ConnectorAVX_PokeInConnector,Poke-In Battery Connector,AVX_PokeInConnector,47.45,-32,-30,top
+J3,12p Male Samtec ConnectorSamtec_2x6Header_FTSH-106-01-L-DV,12p Male Samtec Connector,Samtec_2x6Header_FTSH-106-01-L-DV,40.45,-68.5,0,top
+J4,U.FLU.FL_Molex_MCRF_73412-0110_Vertical,U.FL,U.FL_Molex_MCRF_73412-0110_Vertical,-0.25,-8.5,45,top
+J5,U.FLU.FL_Molex_MCRF_73412-0110_Vertical,U.FL,U.FL_Molex_MCRF_73412-0110_Vertical,3.75,-2,0,top
+J6,12p Male Samtec ConnectorSamtec_2x6Header_FTSH-106-01-L-DV,12p Male Samtec Connector,Samtec_2x6Header_FTSH-106-01-L-DV,40.45,-76.2,0,top
+J7,Conn_02x03_Counter_ClockwiseTag-Connect_TC2030-IDC,Conn_02x03_Counter_Clockwise,Tag-Connect_TC2030-IDC,-8.75,-50.7,0,top
+J9,FPC Connector for OLEDHirose_FPC_FH26W-31S-0.3SHW(60),FPC Connector for OLED,Hirose_FPC_FH26W-31S-0.3SHW(60),0.05,-67.5,-90,top
+J10,FPC Connector for ePaperMolex_24pFPC_Vert_0525592452,FPC Connector for ePaper,Molex_24pFPC_Vert_0525592452,37.35,-84,0,top
+J13,U.FLU.FL_Molex_MCRF_73412-0110_Vertical,U.FL,U.FL_Molex_MCRF_73412-0110_Vertical,46.65,-14.2,-90,top
+J14,U.FLU.FL_Molex_MCRF_73412-0110_Vertical,U.FL,U.FL_Molex_MCRF_73412-0110_Vertical,52.25,-14.2,-90,top
+J15,U.FLU.FL_Molex_MCRF_73412-0110_Vertical,U.FL,U.FL_Molex_MCRF_73412-0110_Vertical,54.45,-19.6,180,top
+J16,U.FLU.FL_Molex_MCRF_73412-0110_Vertical,U.FL,U.FL_Molex_MCRF_73412-0110_Vertical,55.25,-28.4,-90,top
+J17,Conn_02x03_Counter_ClockwiseTag-Connect_TC2030-IDC_MINIMAL,Conn_02x03_Counter_Clockwise,Tag-Connect_TC2030-IDC_MINIMAL,18.982,-68.508,0,top
+L3,10uHInductor10uH_Wurth_744053100,10uH,Inductor10uH_Wurth_744053100,9.4,-72.5,-90,top
+L4,Solenoid InductorBournsInductor_RLB9012-472KL,Solenoid Inductor,BournsInductor_RLB9012-472KL,2.85,-30.5,180,top
+LOGO1,Logo1SkysEdge_21mm,Logo1,SkysEdge_21mm,26.55,-27.55,0,top
+MH7,M2 SMT NutSMTSO-M2-3ET,M2 SMT Nut,SMTSO-M2-3ET,31.25,-75,0,top
+Q4,CSD16301Q2TI_CSD16301Q2,CSD16301Q2,TI_CSD16301Q2,44.85,-23.7,180,top
+Q5,N-MOSFET 30V 1.4ASOT-323_SC-70,N-MOSFET 30V 1.4A,SOT-323_SC-70,26.75,-81.55,180,top
+Q7,MMBT3904SOT-23,MMBT3904,SOT-23,49.55,-22.1,0,top
+R2,1MR_0603_1608Metric,1M,R_0603_1608Metric,13.75,-52.6,-90,top
+R10,1kR_0603_1608Metric,1k,R_0603_1608Metric,18.95,-92.2,180,top
+R11,1kR_0603_1608Metric,1k,R_0603_1608Metric,14.35,-90.25,180,top
+R16,510kR_0603_1608Metric,510k,R_0603_1608Metric,-0.2,-75.55,0,top
+R18,10kR_0603_1608Metric,10k,R_0603_1608Metric,20.75,-83.1,0,top
+R21,1.05MR_0603_1608Metric,1.05M,R_0603_1608Metric,11.615,-59.12,0,top
+R22,120kR_0603_1608Metric,120k,R_0603_1608Metric,14.725,-58.2,0,top
+R25,10kR_0603_1608Metric,10k,R_0603_1608Metric,7.1,-60.45,0,top
+R30,100kR_0603_1608Metric,100k,R_0603_1608Metric,28.325,-24.925,0,top
+R32,0.47RR_0402_1005Metric,0.47R,R_0402_1005Metric,29.05,-80.7,90,top
+R48,1k5R_0603_1608Metric,1k5,R_0603_1608Metric,56.15,-15.3,90,top
+R74,1kR_0603_1608Metric,1k,R_0603_1608Metric,46.65,-19.22,180,top
+R79,18RR_0603_1608Metric,18R,R_0603_1608Metric,7.623929,-87.371075,58,top
+SW2,Roller Switch for Rotary DialLimitSwitch_D2F-01FL2-A1,Roller Switch for Rotary Dial,LimitSwitch_D2F-01FL2-A1,51.1,-69.8,0,top
+SW10,Mic Switch DPDTSwitch_DPDT_Nidec_CL-SB-22C-XX,Mic Switch DPDT,Switch_DPDT_Nidec_CL-SB-22C-XX,27.25,-94.2,0,top
+U1,ATmega16U2-MU as USB BridgeQFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm,ATmega16U2-MU as USB Bridge,QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm,11.55,-83,180,top
+U2,Logic ShifterTXB0108_USON-20_2x4mm_P0.4mm,Logic Shifter,TXB0108_USON-20_2x4mm_P0.4mm,7.23,-63.78,180,top
+U7,12V Boost ConverterBoostConverter_MCP1661,12V Boost Converter,BoostConverter_MCP1661,15.35,-60.4,-90,top
+U9,TOBY-R2CellModule_TOBY-L2,TOBY-R2,CellModule_TOBY-L2,24.75,-11,0,top
+U11,Driver for Bell CoilSO-8EP,Driver for Bell Coil,SO-8EP,9.8,-28,0,top
+Y1,8MHz ResonatorAWSCR-16.00CV-T,8MHz Resonator,AWSCR-16.00CV-T,9.75,-52.3,90,top
+Y2,16MHz ResonatorAWSCR-16.00CV-T,16MHz Resonator,AWSCR-16.00CV-T,17.45,-86.7,0,top

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/jhaupt/Projects/Unsmartphones/RUSP/Electrical/Antenna/RUSP_Antenna.kicad_sch</source>
+    <date>Fri 07 Jan 2022 08:55:30 PM EST</date>
+    <tool>Eeschema 6.0.0+dfsg1-2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>RUSP Antenna Board</title>
+        <company>Sky's Edge</company>
+        <rev/>
+        <date/>
+        <source>RUSP_Antenna.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="AE1">
+      <value>Antenna</value>
+      <footprint>MyFootprints:Antenna_Molex_1462000011</footprint>
+      <fields>
+        <field name="Mfg. Name">Molex</field>
+        <field name="Mfg. Part No.">1462000011</field>
+      </fields>
+      <libsource lib="Device" part="Antenna_Chip" description="Ceramic chip antenna with pin for PCB trace"/>
+      <property name="Mfg. Name" value="Molex"/>
+      <property name="Mfg. Part No." value="1462000011"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/jhaupt/Projects/Unsmartphones/RUSP/Electrical/Antenna/RUSP_Antenna.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000600db0bd</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>2.7pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Murata</field>
+        <field name="Mfg. Part No.">GJM1555C1H2R7WB01D </field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg. Name" value="Murata"/>
+      <property name="Mfg. Part No." value="GJM1555C1H2R7WB01D "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/jhaupt/Projects/Unsmartphones/RUSP/Electrical/Antenna/RUSP_Antenna.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602c72df</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>.5pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Murata</field>
+        <field name="Mfg. Part No.">GJM1555C1HR50RB12D </field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg. Name" value="Murata"/>
+      <property name="Mfg. Part No." value="GJM1555C1HR50RB12D "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/jhaupt/Projects/Unsmartphones/RUSP/Electrical/Antenna/RUSP_Antenna.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602c8e59</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>u.FL</value>
+      <footprint>Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Mfg. Name">Molex</field>
+        <field name="Mfg. Part No.">0734120110</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Mfg. Name" value="Molex"/>
+      <property name="Mfg. Part No." value="0734120110"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/jhaupt/Projects/Unsmartphones/RUSP/Electrical/Antenna/RUSP_Antenna.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000600d9e19</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>7.5nH</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Murata</field>
+        <field name="Mfg. Part No.">LQW18AN7N5C80</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Mfg. Name" value="Murata"/>
+      <property name="Mfg. Part No." value="LQW18AN7N5C80"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/jhaupt/Projects/Unsmartphones/RUSP/Electrical/Antenna/RUSP_Antenna.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602c88bb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="MyLibrary_Fiducial">
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">MyLibrary_Fiducial</field>
+      </fields>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Antenna_Chip">
+      <description>Ceramic chip antenna with pin for PCB trace</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">AE</field>
+        <field name="Value">Antenna_Chip</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="FEED" type="input"/>
+        <pin num="2" name="PCB_Trace" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GNDA">
+      <node ref="AE1" pin="2" pinfunction="PCB_Trace" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(AE1-Pad1)">
+      <node ref="AE1" pin="1" pinfunction="FEED" pintype="input"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="In" pintype="passive"/>
+    </net>
+  </nets>
+</export>

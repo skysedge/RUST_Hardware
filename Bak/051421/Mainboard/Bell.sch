@@ -1,0 +1,151 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 6 9
+Title "RCP 4G BELL RINGER"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	6150 3800 6150 3950
+$Comp
+L power:GND #PWR?
+U 1 1 5F4AAB8D
+P 6150 3950
+AR Path="/5F4AAB8D" Ref="#PWR?"  Part="1" 
+AR Path="/5F221AF2/5F4AAB8D" Ref="#PWR0214"  Part="1" 
+F 0 "#PWR0214" H 6150 3700 50  0001 C CNN
+F 1 "GND" H 6155 3777 50  0000 C CNN
+F 2 "" H 6150 3950 50  0001 C CNN
+F 3 "" H 6150 3950 50  0001 C CNN
+	1    6150 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US 1M?
+U 1 1 5F4AAB94
+P 5350 3900
+AR Path="/5F4AAB94" Ref="1M?"  Part="1" 
+AR Path="/5F221AF2/5F4AAB94" Ref="R24"  Part="1" 
+F 0 "R24" H 5418 3946 50  0000 L CNN
+F 1 "1M" H 5418 3855 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5390 3890 50  0001 C CNN
+F 3 "~" H 5350 3900 50  0001 C CNN
+F 4 "Yageo" H 5350 3900 50  0001 C CNN "Mfg. Name"
+F 5 "RC0402FR-071ML" H 5350 3900 50  0001 C CNN "Mfg. Part No."
+	1    5350 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5F4AAB9B
+P 5350 4150
+AR Path="/5F4AAB9B" Ref="#PWR?"  Part="1" 
+AR Path="/5F221AF2/5F4AAB9B" Ref="#PWR0215"  Part="1" 
+F 0 "#PWR0215" H 5350 3900 50  0001 C CNN
+F 1 "GND" H 5355 3977 50  0000 C CNN
+F 2 "" H 5350 4150 50  0001 C CNN
+F 3 "" H 5350 4150 50  0001 C CNN
+	1    5350 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 4150 5350 4050
+Wire Wire Line
+	5350 3750 5350 3600
+Wire Wire Line
+	5350 3600 5500 3600
+$Comp
+L Device:R_US 100R?
+U 1 1 5F4AABA4
+P 5650 3600
+AR Path="/5F4AABA4" Ref="100R?"  Part="1" 
+AR Path="/5F221AF2/5F4AABA4" Ref="R23"  Part="1" 
+F 0 "R23" V 5445 3600 50  0000 C CNN
+F 1 "100R" V 5536 3600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5690 3590 50  0001 C CNN
+F 3 "~" H 5650 3600 50  0001 C CNN
+F 4 "Panasonic" H 5650 3600 50  0001 C CNN "Mfg. Name"
+F 5 "ERJ-2RKF1000X" H 5650 3600 50  0001 C CNN "Mfg. Part No."
+	1    5650 3600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5800 3600 5850 3600
+Wire Wire Line
+	5100 3600 5350 3600
+Connection ~ 5350 3600
+$Comp
+L Device:L L9
+U 1 1 5F4AD5D1
+P 6825 3100
+F 0 "L9" V 6775 3050 50  0000 L CNN
+F 1 "COIL" V 6775 3025 50  0001 L CNN
+F 2 "MyFootprints:3pSocket_RA_GCT_BG302-03-A-L-G" H 6825 3100 50  0001 C CNN
+F 3 "" H 6825 3100 50  0001 C CNN
+F 4 "GCT" H 6825 3100 50  0001 C CNN "Mfg. Name"
+F 5 "BG302-03-A-L-G" H 6825 3100 50  0001 C CNN "Mfg. Part No."
+F 6 "Bourns RLB9012-472KL" V 6925 3150 50  0000 C CNN "Notes"
+	1    6825 3100
+	0    1    1    0   
+$EndComp
+Text HLabel 5100 3600 0    50   Input ~ 0
+BELL_PWM
+Wire Wire Line
+	7325 3100 7125 3100
+Wire Wire Line
+	6675 3100 6525 3100
+Text HLabel 7325 3100 2    50   Input ~ 0
+BELL_V
+$Comp
+L Device:Q_NMOS_GSD Q6
+U 1 1 5EEEAC9E
+P 6050 3600
+F 0 "Q6" H 6000 3750 50  0000 L CNN
+F 1 "DMG2302UK-7 " V 6300 3300 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 6250 3700 50  0001 C CNN
+F 3 "https://www.diodes.com/assets/Datasheets/DMG2302UK.pdf" H 6050 3600 50  0001 C CNN
+F 4 "Diodes Incorporated" H 6050 3600 50  0001 C CNN "Mfg. Name"
+F 5 "DMG2302UK-7" H 6050 3600 50  0001 C CNN "Mfg. Part No."
+	1    6050 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 5F2D8B75
+P 6825 2750
+AR Path="/5E745CFA/5F2D8B75" Ref="D?"  Part="1" 
+AR Path="/5F221AF2/5F2D8B75" Ref="D24"  Part="1" 
+F 0 "D24" H 6850 2650 50  0000 C CNN
+F 1 "1N4148" H 6825 2875 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6825 2575 50  0001 C CNN
+F 3 "" H 6825 2750 50  0001 C CNN
+F 4 "Diodes Incorporated" H 6825 2750 50  0001 C CNN "Mfg. Name"
+F 5 " 1N4148W-13-F" H 6825 2750 50  0001 C CNN "Mfg. Part No."
+	1    6825 2750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6975 2750 7125 2750
+Wire Wire Line
+	7125 2750 7125 3100
+Connection ~ 7125 3100
+Wire Wire Line
+	7125 3100 6975 3100
+Wire Wire Line
+	6675 2750 6525 2750
+Wire Wire Line
+	6525 2750 6525 3100
+Connection ~ 6525 3100
+Wire Wire Line
+	6150 3400 6150 3100
+Wire Wire Line
+	6150 3100 6525 3100
+$EndSCHEMATC

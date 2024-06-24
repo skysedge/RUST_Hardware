@@ -1,0 +1,99 @@
+    C1,22pF,Capacitor_SMD:C_0402_1005Metric,,,399-9031-1-ND ,Digi-Key,,,Kemet,C0402C220J5GACTU,,,1
+">  C2-C6, C10, C11, C18, C19, C39, C42, C56, C64, C65",.1uF,Capacitor_SMD:C_0402_1005Metric,...,,...,...,,...,Kemet,C0402C104Z4VACTU,,,14
+    C7,10nF,Capacitor_SMD:C_0402_1005Metric,,,1276-1009-1-ND ,Digi-Key,,50V,Kemet,C0402C103K4RACTU,,,1
+">  C8, C9",47pF,Capacitor_SMD:C_0402_1005Metric,,,399-7918-1-ND ,Digi-Key,,,Kemet,C0402C470K5GACTU,,,2
+">  C12, C13",4.7uF,Capacitor_SMD:C_0603_1608Metric,~,,,,,,Samsung,CL10A475KQ8NNNC,,,2
+">  C14, C37",...,...,https://www.we-online.de/katalog/datasheet/865080243007.pdf,,,,...,,Wurth,8.6508E+11,,,2
+">  C15, C72","2.2uF, LOW-ESR CER.",Capacitor_SMD:C_0402_1005Metric,~,,,,,,TDK,C1005X5R1A225M050BC,,X5R or X7R,2
+    C16,10uF/10V,Capacitor_SMD:C_0805_2012Metric,~,,,,,,TDK,C2012X7R1A106K125AC,,,1
+    C17,10uF/35V,Resistor_SMD:R_1206_3216Metric,~,,,,,,TDK,CGA5L1X7R1V106K160AC,,,1
+>  C20-C22,4.7uF/25V,Capacitor_SMD:C_0805_2012Metric,~,,,,,,Samsung,CL21A475KBQNNNE,,,3
+>  C23-C29,1uF/50V,Capacitor_SMD:C_0805_2012Metric,~,,,,,,Yageo,CC0805KKX7R9BB105,,,7
+    C30,68pF/50V,Capacitor_SMD:C_0402_1005Metric,~,,,,,,Murata,GRM1555C1H680JA01J,,,1
+    C31,15pF/50V,Capacitor_SMD:C_0402_1005Metric,~,,,,,,Murata,GRM1555C1H150JA01J,,,1
+    C32,8.2pF/50V,Capacitor_SMD:C_0402_1005Metric,~,,,,,,Yageo,CC0402DRNPO9BN8R2,,,1
+    C33,10nF/16V,Capacitor_SMD:C_0402_1005Metric,~,,,,,,Murata,GRM155R71C103KA01D,,,1
+    C34,100nF/16V,Capacitor_SMD:C_0402_1005Metric,~,,,,,,Kemet,C0402C104K4RACTU,,,1
+    C35,"330uF/6.3V, TANTALUM 45mR",MyFootprints:C_2917,~,,,,,,Kemet,T520D337M006ATE045,,,1
+">  C46, C47, C62, C63",27pF,Capacitor_SMD:C_0402_1005Metric,~,,,,,,Kemet,C0402C270J5GACTU,,,4
+">  C48, C49, C60, C61",10nF,Capacitor_SMD:C_0402_1005Metric,~,,,,,,Murata,GCM155R71H103KA55D ,,,4
+">  C50, C54",2.2uF,Capacitor_SMD:C_0603_1608Metric,~,,,,,,Kemet,C0603C225K9PACTU,,,2
+">  C51-C53, C55, C58, C59",1uF,Capacitor_SMD:C_0402_1005Metric,~,,,,,,Kemet,C0402C105K9PACTU,,,6
+    C57,10uF,Capacitor_SMD:C_0603_1608Metric,~,,,,,,Kemet,C0603C106M9PACTU,,,1
+">  C66, C67",.1uF/X7R/+-10%,Capacitor_SMD:C_0603_1608Metric,~,,,,,,Kemet,C0603C104K3RACTU,,,2
+>  C68-C71,4.7uF/25V,Capacitor_SMD:CP_Elec_4x4.5,~,,,,,,Wurth,8.65081E+11,,,4
+    D3,D_Schottky,Diode_SMD:D_SOD-123,~,,MBR130T3GOSCT-ND,DigiKey,,,ON Semiconductor,MBR130T3G,,,1
+    D4,RX/GREEN,LED_SMD:LED_0603_1608Metric_Castellated,,Rx/GREEN,475-3442-1-ND?,DigiKey,,,OSRAM,LT Q39G-Q1OO-25-1,,,1
+">  D5, D21",...,LED_SMD:LED_0603_1608Metric_Castellated,,...,...,DigiKey,,,Inolux,IN-S63AT5Y,,,2
+>  D10-D12,MBR0530,Diode_SMD:D_SOD-123,http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf,,,,,,ON Semi,MBR0530,,,3
+>  D15-D18,TVS,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,,,,,,AVX,USB0001DP ,,,4
+    D22,LED,LED_SMD:LED_0603_1608Metric_Castellated,,TEAL,,,,,Rohm,SMLE13EC8TT86,,,1
+    D23,PMEG2005,Diode_SMD:D_SOD-123,https://assets.nexperia.com/documents/data-sheet/PMEG2005EGW.pdf,,,,,,Nexperia,PMEG2005EGWJ ,,,1
+    D24,1N4148,Diode_SMD:D_SOD-123,,,,,,,Diodes Incorporated, 1N4148W-13-F,,,1
+>  D25-D34,R/Y,MyFootprints:LED_Dialight_5988560207F,http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf,,,,,,Dialight,5988560207F,,,10
+>  FID1-FID6,Fiducial,Fiducial:Fiducial_0.75mm_Dia_1.5mm_Outer,,,,,,,,,,,6
+>  GPIO1-GPIO4,TestPoint_Alt,TestPoint:TestPoint_Pad_1.0x1.0mm,~,,,,,,,,,,4
+    J1,USB_C_Receptacle,digikey-footprints:CUI_UJ31-CH-G1-SMT-TR,https://www.cuidevices.com/product/resource/uj31-ch-g1-smt-tr.pdf,,,,,,CUI,UJ31-CH-G1-SMT-TR,,,1
+    J2,JST2,MyFootprints:S2B-PH-SM4-TBLFSN,~,,455-1749-1-ND,DigiKey,S2B-PH-SM4-TB(LF)(SN),,JST,S2B-PH-SM4-TB(LF)(SN),,,1
+    J3,Conn_01x12,MyFootprints:Samtec_2x6Header_FTSH-106-01-L-DV,~,,,,,,Samtec,FTSH-106-01-L-DV,,,1
+">  J4, J5",U.FL,Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical, ~,,,,,,Molex,734120110,,,2
+    J6,Conn_01x12,MyFootprints:Samtec_2x6Header_FTSH-106-01-L-DV,~,,,,,,Samtec,FTSH-106-01-L-DV ,,,1
+    J7,Conn_02x03_Counter_Clockwise,MyFootprints:Tag-Connect_TC2030-IDC,~,,,,,ICSP,Tag-Connect,Mating Connector: TC2030-IDC ,,,1
+    J8,AudioJack_TRRS_3Switch,MyFootprints:AudioJack_TRRS_CUI_SJ-43617-SMT-TR,,,,,,TRRS JACK,CUI,SJ-43617-SMT-TR,,,1
+    J9,FPC,MyFootprints:Hirose_FPC_FH26W-31S-0.3SHW(60),~,,,,,,Hirose,FH26W-31S-0.3SHW(60),,,1
+    J10,FPC,MyFootprints:Molex_24pFPC_Vert_0525592452,~,,,,,,Molex,525592452,,,1
+">  J11, J12",Conn_01x02,MyFootprints:2pSocket_SMD_Samtec_SMM-102-02-S-S,~,,,,,,Samtec,SMM-102-02-S-S,,,2
+    L1,Ferrite_Bead,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,240-2390-1-ND,DigiKey,,,Laird,MI0805K601R-10,,,1
+    L2,4.7uH,MyFootprints:Inductor_Wurth_74438336100,https://www.we-online.de/katalog/datasheet/74438336100.pdf,,,,,,Wurth,74438336047,,,1
+    L3,10uH,MyFootprints:Inductor10uH_Wurth_744053100,~,,,,,,Wurth,744053100,,,1
+>  L5-L8,EMI,Inductor_SMD:L_0402_1005Metric,~,,,,,,Murata,BLM15HD182SN1D,,,4
+    L9,COIL,MyFootprints:3pSocket_RA_GCT_BG302-03-A-L-G,,,,,,,GCT,BG302-03-A-L-G,,Bourns RLB9012-472KL,1
+">  LOGO1, LOGO2",...,...,~,,,,,,,,,,2
+    LS1,Speaker,MyFootprints:Speaker_PUI_AR01232MS-SC12-WP-R,http://www.puiaudio.com/pdf/AR01232MS-SC12-WP-R.pdf,,,,,,PUI Audio,AR01232MS-SC12-WP-R,,,1
+">  MH1-MH4, MH8",MountingHole,MountingHole:MountingHole_2.2mm_M2,~,,,,,,,,,,5
+">  MH5, MH6, MH9, MH10",MountingHole,MyFootprints:SMTSO-M1.6-1ET,~,,,,,,PEM,SMTSO-M1.6-1ET,,,4
+    MH7,MountingHole,MyFootprints:SMTSO-M2-3ET,~,,,,,,PEM,SMTSO-M2-3ET,,,1
+    MK1,2k2 Electret,MyFootprints:Microphone_PUI_POM-2738P-R,http://www.puiaudio.com/pdf/POM-2738P-R.pdf,,,,,,PUI Audio,POM-2738P-R,,,1
+    NT2,Net-Tie_2,NetTie:NetTie-2_SMD_Pad0.5mm,~,,,,,,,,,,1
+">  Q1, Q2, Q6",DMG2302UK-7 ,Package_TO_SOT_SMD:SOT-23,https://www.diodes.com/assets/Datasheets/DMG2302UK.pdf,,,,,,Diodes Incorporated,DMG2302UK-7,,,3
+">  Q3, Q4",Q_NMOS_POWER,digikey-footprints:TI_CSD16301Q2,,,,,,,TI,CSD16301Q2,,,2
+    Q5,NMOS,Package_TO_SOT_SMD:SOT-323_SC-70,https://www.vishay.com/docs/63399/si1308edl.pdf,,,,,,Vishay,SI1308EDL-T1-GE3 ,,,1
+    Q7,MMBT3904,Package_TO_SOT_SMD:SOT-23,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,,,,,,Fairchild,MMBT3904,,,1
+">  R1, R29, R33, R39, R42, R66, R68-R71, R75, R76",10k,Resistor_SMD:R_0402_1005Metric,...,,,,,,TE,CRGCQ0402J10K,,,12
+">  R2, R24, R34, R41, R73",1M,Resistor_SMD:R_0402_1005Metric,...,,...,...,,,Yageo,RC0402FR-071ML,,,5
+">  R3, R6, R7",27R,Resistor_SMD:R_0402_1005Metric,,,RMCF0603JT27R0CT-ND ,Digi-Key,,,Panasonic,ERJ-2GEJ270X,,,3
+">  R4, R5",5k1,Resistor_SMD:R_0402_1005Metric,~,,,,,,Yageo,RC0402FR-075K1L,,,2
+">  R8-R11, R74",1k,Resistor_SMD:R_0402_1005Metric,...,,...,...,,,Yageo,RC0402JR-071KL,,,5
+    R12,330R,Resistor_SMD:R_0402_1005Metric,~,,,,,,Panasonic,ERJ-2GEJ331X,,,1
+">  R13, R14, R35, R38",2k2,Resistor_SMD:R_0402_1005Metric,~,,,,,...,Panasonic,ERJ-2GEJ222X,,,4
+    R15,10R,Resistor_SMD:R_0603_1608Metric,,,,,,,Panasonic,ERJ-3GEYJ100V,,,1
+    R18,470R,Resistor_SMD:R_0402_1005Metric,~,,,,,,Yageo,RC0402JR-07470RL,,,1
+">  R19, R20, R23, R40, R65",100R,Resistor_SMD:R_0402_1005Metric,~,,,,,,Panasonic,ERJ-2RKF1000X,,,5
+    R21,1.05M,Resistor_SMD:R_0402_1005Metric,~,,,,,,Yageo,RC0402FR-071M05L,,,1
+    R22,120k,Resistor_SMD:R_0402_1005Metric,~,,,,,,Yageo,RC0402FR-07120KL,,,1
+">  R16, R17, R25, R28",0R,Resistor_SMD:R_0603_1608Metric,~,,,,,,,,,,4
+">  R26, R27, R30",100k,Resistor_SMD:R_0402_1005Metric,~,,,,,,Yageo,RC0402FR-07100KL,,,3
+    R31,16k,Resistor_SMD:R_0402_1005Metric,~,,,,,,Yageo,RC0402FR-0716KL,,,1
+    R32,0.47R,Resistor_SMD:R_0402_1005Metric,~,,,,,,Panasonic,ERJ-2BQJR47X,SETS COMPATIBILITY FOR GDEW029I6F,,1
+">  R36, R37",4k7,Resistor_SMD:R_0402_1005Metric,~,,,,,,TE,CRG0402F4K7,,,2
+    R44,160R,Resistor_SMD:R_0402_1005Metric,,,,,,,Yageo,RC0402FR-07160RL,,,1
+">  R43, R45-R64",1k5,Resistor_SMD:R_0402_1005Metric,,,A130092CT-ND,Digi-Key,,,Yageo,RC0402FR-071K5L,,,21
+">  R67, R77",2k,Resistor_SMD:R_0402_1005Metric,~,,,,,,Yageo,RC0402JR-072KL,,,2
+    R72,620k/+-5%,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~,,,,,,Yageo,RT0603FRE07620KL,,,1
+    RSVD1,TestPoint_Alt,TestPoint:TestPoint_Pad_1.0x1.0mm,~,,,,,,,,,,1
+    SW1,SP3T,MyFootprints:SP3T_OS103011MA7QP1,,,CKN9561-ND,DigiKey,,Mode,C&K,OS103011MA7QP1,,,1
+    SW2,ROTARY DIAL ROLLER SWITCH,MyFootprints:LimitSwitch_D2F-01FL2-A1,https://media.digikey.com/pdf/Data%20Sheets/Omron%20PDFs/D2F_0318_DS.pdf,,,,,,Omron,D2F-01FL2-A1,,,1
+>  SW3-SW8,Tactile Switch,MyFootprints:TactileSwitch_Panasonic_EVQ-Q2Y03W,,,,,,...,Panasonic,EVQ-Q2Y03W ,,,6
+    SW9,SW_4P2T,MyFootprints:Switch_4PDT_ESwitch-EG4208,http://spec_sheets.e-switch.com/specs/P040280.pdf,,,,,,E-Switch,EG4208 ,,,1
+    SW10,SW_DPDT,MyFootprints:Switch_DPDT_Nidec_CL-SB-22C-XX,,,,,,,Nidec Copal,CL-SB-22C-11,,,1
+>  T1-T21,TestPoint_Alt,...,~,,,,,,,,,,21
+    U1,FT230XS,MyFootprints:SSOP-16,,,768-1135-1-ND,DigiKey,,,FTDI,FT230XS-R,,,1
+    U3,BQ29703DSET,Package_SON:WSON-6_1.5x1.5mm_P0.5mm,http://www.ti.com/lit/ds/symlink/bq2970.pdf,,,,,,TI,BQ29703DSET,,,1
+    U4,ATmega2560V-8AU,Package_QFP:TQFP-100_14x14mm_P0.5mm,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf,,ATMEGA2560V-8AURCT-ND,Digi-Key,,,Microchip Technology,ATMEGA2560V-8AUR,,,1
+    U5,MCP73831-2-OT,Package_TO_SOT_SMD:SOT-23-5,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf,,MCP73831T-2ACI/OTCT-ND ,Digi-Key,,,Microchip,MCP73831T-2ACI/OT,,,1
+    U6,MIC5528,MyFootprints:LDO_MIC5528,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5528-High-Performance-500mA-LDO-in-Thin-and-Extra-Thin-DFN-Packages-DS20005982B.pdf,,,,,,Microchip,MIC5528-3.3YMT-TR,,,1
+    U7,MCP1661,MyFootprints:BoostConverter_MCP1661,https://ww1.microchip.com/downloads/en/DeviceDoc/20005315B.pdf,,,,,,Microchip,MCP1661T-E/MNY ,,,1
+    U9,TOBY-L2,MyFootprints:CellModule_TOBY-L2,https://www.u-blox.com/en/product/toby-l2-series,,,,,,u-blox,TOBY-L201-02S,,,1
+">  U2, U8, U10",TXB0108DQS,Package_SON:USON-20_2x4mm_P0.4mm,http://www.ti.com/lit/ds/symlink/txb0108.pdf,,,,,...,TI,TXB0108DQSR,,,3
+    U12,MAX9860,Package_DFN_QFN:WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm,,,,,,,Maxim,MAX9860ETG+,,,1
+    Y1,8MHz,MyFootprints:AWSCR-16.00CV-T,,,535-10004-1-ND,Digi-Key,,,Abracon,AWSCR-8.00CV-T,,,1
