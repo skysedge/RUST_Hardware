@@ -15551,7 +15551,7 @@
 	)
 	(symbol
 		(lib_id "Device:Net-Tie_2")
-		(at 551.815 334.645 0)
+		(at 549.91 344.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -15559,7 +15559,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fc9f61b")
 		(property "Reference" "NT2"
-			(at 551.815 330.0476 0)
+			(at 549.91 339.5726 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15567,7 +15567,7 @@
 			)
 		)
 		(property "Value" "Net-Tie_2"
-			(at 551.815 332.359 0)
+			(at 549.91 341.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15575,7 +15575,7 @@
 			)
 		)
 		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
-			(at 551.815 334.645 0)
+			(at 549.91 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15584,7 +15584,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 551.815 334.645 0)
+			(at 549.91 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15593,7 +15593,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 551.815 334.645 0)
+			(at 549.91 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15886,7 +15886,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 549.275 334.645 0)
+		(at 547.37 344.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15894,7 +15894,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fcf34bb")
 		(property "Reference" "#PWR0160"
-			(at 549.275 340.995 0)
+			(at 547.37 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15903,7 +15903,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 549.402 339.0392 0)
+			(at 547.497 348.5642 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15911,7 +15911,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 549.275 334.645 0)
+			(at 547.37 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15920,7 +15920,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 549.275 334.645 0)
+			(at 547.37 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15929,7 +15929,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 549.275 334.645 0)
+			(at 547.37 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15951,7 +15951,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 554.355 334.645 0)
+		(at 552.45 344.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15959,7 +15959,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fcf393a")
 		(property "Reference" "#PWR0161"
-			(at 554.355 340.995 0)
+			(at 552.45 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15968,7 +15968,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 554.482 339.0392 0)
+			(at 552.577 348.5642 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15976,7 +15976,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 554.355 334.645 0)
+			(at 552.45 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15985,7 +15985,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 554.355 334.645 0)
+			(at 552.45 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15994,7 +15994,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 554.355 334.645 0)
+			(at 552.45 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17536,86 +17536,6 @@
 		)
 	)
 	(symbol
-		(lib_id "MyLibrary:CableClip")
-		(at 551.18 353.695 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "306cec8f-5667-4264-87a6-a962e4cd2183")
-		(property "Reference" "T7"
-			(at 553.085 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 551.18 353.695 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MyFootprints:CableClip_Harwin-S8101-46R"
-			(at 551.18 353.695 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 551.18 353.695 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 551.18 353.695 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg. Name" "Harwin"
-			(at 551.18 353.695 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg. Part No." "S8101-46R"
-			(at 551.18 356.235 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "RUSP_Mainboard"
-				(path "/f8b47531-6c06-4e54-9fc9-cd9d0f3dd69f"
-					(reference "T7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 316.23 256.54 0)
 		(unit 1)
@@ -17682,7 +17602,7 @@
 	)
 	(symbol
 		(lib_id "MyLibrary:CableClip")
-		(at 551.18 346.71 0)
+		(at 549.275 356.235 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17690,7 +17610,7 @@
 		(dnp no)
 		(uuid "5fb51bd3-bf84-406f-9d1c-2a0606c38eaa")
 		(property "Reference" "T5"
-			(at 553.085 347.345 0)
+			(at 551.18 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17699,7 +17619,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 551.18 346.71 0)
+			(at 549.275 356.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17707,7 +17627,7 @@
 			)
 		)
 		(property "Footprint" "MyFootprints:CableClip_Harwin-S8101-46R"
-			(at 551.18 346.71 0)
+			(at 549.275 356.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17716,7 +17636,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 551.18 346.71 0)
+			(at 549.275 356.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17725,7 +17645,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 551.18 346.71 0)
+			(at 549.275 356.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17734,7 +17654,7 @@
 			)
 		)
 		(property "Mfg. Name" "Harwin"
-			(at 551.18 346.71 0)
+			(at 549.275 356.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17743,7 +17663,7 @@
 			)
 		)
 		(property "Mfg. Part No." "S8101-46R"
-			(at 551.18 349.25 0)
+			(at 549.275 358.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17762,7 +17682,7 @@
 	)
 	(symbol
 		(lib_id "MyLibrary:CableClip")
-		(at 551.18 342.9 0)
+		(at 549.275 352.425 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17770,7 +17690,7 @@
 		(dnp no)
 		(uuid "6d8ffc0f-3709-4217-898a-547c2a8c96e2")
 		(property "Reference" "T4"
-			(at 553.085 343.535 0)
+			(at 551.18 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17779,7 +17699,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 551.18 342.9 0)
+			(at 549.275 352.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17787,7 +17707,7 @@
 			)
 		)
 		(property "Footprint" "MyFootprints:CableClip_Harwin-S8101-46R"
-			(at 551.18 342.9 0)
+			(at 549.275 352.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17796,7 +17716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 551.18 342.9 0)
+			(at 549.275 352.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17805,7 +17725,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 551.18 342.9 0)
+			(at 549.275 352.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17814,7 +17734,7 @@
 			)
 		)
 		(property "Mfg. Name" "Harwin"
-			(at 551.18 342.9 0)
+			(at 549.275 352.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17823,7 +17743,7 @@
 			)
 		)
 		(property "Mfg. Part No." "S8101-46R"
-			(at 551.18 345.44 0)
+			(at 549.275 354.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17835,86 +17755,6 @@
 			(project "RUSP_Mainboard"
 				(path "/f8b47531-6c06-4e54-9fc9-cd9d0f3dd69f"
 					(reference "T4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MyLibrary:CableClip")
-		(at 551.18 349.885 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7ac0a770-2221-4d10-ac6b-79039300203c")
-		(property "Reference" "T6"
-			(at 553.085 350.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 551.18 349.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MyFootprints:CableClip_Harwin-S8101-46R"
-			(at 551.18 349.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 551.18 349.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 551.18 349.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg. Name" "Harwin"
-			(at 551.18 349.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg. Part No." "S8101-46R"
-			(at 551.18 352.425 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "RUSP_Mainboard"
-				(path "/f8b47531-6c06-4e54-9fc9-cd9d0f3dd69f"
-					(reference "T6")
 					(unit 1)
 				)
 			)
