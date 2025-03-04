@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/jhaupt/Projects/Telecom/RUSP/Electrical/Faceplate/RUSP_Faceplate.kicad_sch</source>
+    <date>Thu May 23 22:35:45 2024</date>
+    <tool>Eeschema 7.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RUSP_Faceplate.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Walsin</field>
+        <field name="Mfg. Part No.">0603B104K250CT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg. Name" value="Walsin"/>
+      <property name="Mfg. Part No." value="0603B104K250CT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec9be73b-a426-4b05-8ebf-1c779215b149</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>M2 SMT Nut</value>
+      <footprint>MyFootprints:SMTSO-M2-3ET</footprint>
+      <fields>
+        <field name="Mfg. Name">PEM</field>
+        <field name="Mfg. Part No.">SMTSO-M2-3ET </field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Mfg. Name" value="PEM"/>
+      <property name="Mfg. Part No." value="SMTSO-M2-3ET "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa09a68</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>M2 SMT Nut</value>
+      <footprint>MyFootprints:SMTSO-M2-3ET</footprint>
+      <fields>
+        <field name="Mfg. Name">PEM</field>
+        <field name="Mfg. Part No.">SMTSO-M2-3ET </field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Mfg. Name" value="PEM"/>
+      <property name="Mfg. Part No." value="SMTSO-M2-3ET "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa0a3c0</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>M2 SMT Nut</value>
+      <footprint>MyFootprints:SMTSO-M2-3ET</footprint>
+      <fields>
+        <field name="Mfg. Name">PEM</field>
+        <field name="Mfg. Part No.">SMTSO-M2-3ET </field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Mfg. Name" value="PEM"/>
+      <property name="Mfg. Part No." value="SMTSO-M2-3ET "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa0a670</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>3mm Magnet</value>
+      <footprint>MyFootprints:3mmMagnetHole</footprint>
+      <fields>
+        <field name="Mfg. Name">K&amp;J</field>
+        <field name="Mfg. Part No.">N42P120060</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Mfg. Name" value="K&amp;J"/>
+      <property name="Mfg. Part No." value="N42P120060"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1ab7eea-7111-4c21-ba83-3d0af68a4781</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>M2 SMT Nut</value>
+      <footprint>MyFootprints:SMTSO-M2-3ET</footprint>
+      <fields>
+        <field name="Mfg. Name">PEM</field>
+        <field name="Mfg. Part No.">SMTSO-M2-3ET </field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Mfg. Name" value="PEM"/>
+      <property name="Mfg. Part No." value="SMTSO-M2-3ET "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa0ad78</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>HallSwitch</value>
+      <footprint>MyFootprints:SC-59</footprint>
+      <fields>
+        <field name="Mfg. Name">Diodes Inc.</field>
+        <field name="Mfg. Part No.">AH1806-W-7</field>
+      </fields>
+      <libsource lib="MyLibrary" part="HallSwitch" description=""/>
+      <property name="Mfg. Name" value="Diodes Inc."/>
+      <property name="Mfg. Part No." value="AH1806-W-7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6edfe34c-a68b-45bf-ac15-6622eca13146</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MyLibrary" part="Fiducial">
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">MyLibrary_Fiducial</field>
+      </fields>
+    </libpart>
+    <libpart lib="MyLibrary" part="HallSwitch">
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">HallSwitch</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Mfg. Name">Diodes Inc.</field>
+        <field name="Mfg. Part No.">AH1806-W-7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vdd" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/app/extensions/Library/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/app/extensions/Library/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="MyLibrary">
+      <uri>/home/jhaupt/.kicad/MyLibrary.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="H5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="2" name="/HALL_OUT">
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="3" name="/Vdd">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U1" pin="1" pinfunction="Vdd" pintype="power_in"/>
+    </net>
+  </nets>
+</export>
