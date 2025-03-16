@@ -1815,7 +1815,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Fab notes:\n	-Thickness: 2.4mm\n	-Solder mask: Color not important, but preference for black?\n	-Surface finish: ENIG or whatever"
+	(gr_text "Fab notes:\n	-Thickness: 2.4mm\n	-Solder mask: Black\n	-Surface finish: ENIG or whatever"
 		(at 99.912 60 0)
 		(layer "Cmts.User")
 		(uuid "43707e99-bdd7-4b02-9974-540ed6c2b0aa")

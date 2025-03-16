@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.11+dfsg-1~bpo11+1"
+      "Version": "8.0.8+dfsg-1"
     },
-    "CreationDate": "2023-03-04T16:09:42-05:00"
+    "CreationDate": "2025-03-16T16:56:24-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "RUSP_Faceplate",
-      "GUID": "52555350-5f46-4616-9365-706c6174652e",
+      "Name": "RUST_Dialboard",
+      "GUID": "52555354-5f44-4696-916c-626f6172642e",
       "Revision": "rev?"
     },
     "Size": {
@@ -32,42 +32,42 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "RUSP_Faceplate-F_Cu.gbr",
+      "Path": "RUST_Dialboard-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RUSP_Faceplate-B_Cu.gbr",
+      "Path": "RUST_Dialboard-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RUSP_Faceplate-B_Paste.gbr",
+      "Path": "RUST_Dialboard-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RUSP_Faceplate-F_Silkscreen.gbr",
+      "Path": "RUST_Dialboard-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RUSP_Faceplate-B_Silkscreen.gbr",
+      "Path": "RUST_Dialboard-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RUSP_Faceplate-F_Mask.gbr",
+      "Path": "RUST_Dialboard-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "RUSP_Faceplate-B_Mask.gbr",
+      "Path": "RUST_Dialboard-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "RUSP_Faceplate-Edge_Cuts.gbr",
+      "Path": "RUST_Dialboard-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

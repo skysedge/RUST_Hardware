@@ -1,0 +1,28 @@
+### Footprint positions - created on 2025-03-16T17:13:36-0400 ###
+### Printed by KiCad version 8.0.8+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                                     PosX       PosY       Rot  Side
+AE1       Ignion_Trio_mXtend  Antenna_Ignion_TriomXtend_NN03-310       13.2500    29.2500  180.0000  top
+C1        47pF/50V            C_0603_1608Metric                        -5.0000   -18.5750  -135.0000  top
+C4        47pF/50V            C_0603_1608Metric                        -1.4750   -22.1000  -135.0000  top
+C5        .1uF/16V            C_0603_1608Metric                        -3.8500   -19.7500  -135.0000  top
+C6        2.1pF               C_0402_1005Metric                        27.8000    16.5000  -90.0000  top
+C7        .7pF                C_0402_1005Metric                        27.3000    15.0000    0.0000  top
+C8        .5pF                C_0402_1005Metric                        25.0000    25.4000    0.0000  top
+C9        .4pF                C_0402_1005Metric                        27.3000    12.5000    0.0000  top
+D1        D_TVS               D_0603_1608Metric                        -6.2000   -17.4000  -135.0000  top
+D4        D_TVS               D_0603_1608Metric                        -2.6500   -20.9250  -135.0000  top
+FID1      Fiducial            Fiducial_0.75mm_Dia_1.5mm_Outer         -21.8000    13.6000    0.0000  top
+FID2      Fiducial            Fiducial_0.75mm_Dia_1.5mm_Outer          22.0000    19.5000    0.0000  top
+FID3      Fiducial            Fiducial_0.75mm_Dia_1.5mm_Outer          21.5000   -37.0000    0.0000  top
+J1        Conn_Coaxial        U.FL_Molex_MCRF_73412-0110_Vertical      26.5000     9.5000  -90.0000  top
+J2        SIM                 SIMHolder_Amph7111S2015X02LF            -20.2800    -1.7800   90.0000  top
+J7        Micro_SD_Card_Det   MicroSDSocket_GCT_MEM2061-01-188-00-A   -23.4000    23.4000  -90.0000  top
+L1        2.4nH               L_0603_1608Metric                        27.8000    19.1000  -90.0000  top
+L2        12nH                L_0603_1608Metric                        25.0000    26.7000    0.0000  top
+L3        9nH                 L_0402_1005Metric                        25.9000    17.5000    0.0000  top
+L4        9.1nH               L_0603_1608Metric                        27.0000    13.7000    0.0000  top
+R32       100k                R_0603_1608Metric                       -13.3850    29.0000  180.0000  top
+R33       100k                R_0603_1608Metric                       -13.3000    20.3000  180.0000  top
+## End

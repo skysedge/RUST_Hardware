@@ -1,0 +1,5 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"C1",".1uF","~","Capacitor_SMD:C_0603_1608Metric","1",""
+"H1,H2,H3,H5","M2 SMT Nut","~","MyFootprints:SMTSO-M2-3ET","4",""
+"H4","3mm Magnet","~","MyFootprints:3mmMagnetHole","1",""
+"U1","HallSwitch","","MyFootprints:SC-59","1",""

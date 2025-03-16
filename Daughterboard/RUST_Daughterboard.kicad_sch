@@ -4853,7 +4853,7 @@
 		)
 		(uuid "fef37e8b-0ff0-4da2-8a57-acaf19551d1a")
 	)
-	(text "3/3/25 P/N CHANGES FOR ASSEMBLY HOUSE\n\n-J2 (SIM connector): WILL SEND\n-L1 (high Q 2.4nH): New P/N listed.\n-L2 (high Q 12nH): New P/N listed.\n-L4 (high Q 9.1nH): New P/N listed.\n-Can select alt parts for inductors as long as they're high-Q. \n\nRemove M2 nut"
+	(text "3/3/25 P/N CHANGES FOR ASSEMBLY HOUSE\n\n-J2 (SIM connector): WILL SEND\n-L1 (high Q 2.4nH): New P/N listed.\n-L2 (high Q 12nH): New P/N listed.\n-L4 (high Q 9.1nH): New P/N listed.\n-Can select alt parts for inductors as long as they're high-Q. \n\nRemoved M2 nut"
 		(exclude_from_sim no)
 		(at 267.462 44.704 0)
 		(effects
@@ -5894,6 +5894,15 @@
 			)
 		)
 		(property "Mfg. Part No." "SF7W006S1AR1000"
+			(at 274.955 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "Will send."
 			(at 274.955 204.47 0)
 			(effects
 				(font
@@ -9763,6 +9772,15 @@
 			)
 		)
 		(property "Mfg. Part No." "NN03-310"
+			(at 257.175 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "Can send."
 			(at 257.175 103.505 0)
 			(effects
 				(font

@@ -1,0 +1,11 @@
+### Footprint positions - created on 2025-03-16T17:14:40-0400 ###
+### Printed by KiCad version 8.0.8+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                               PosX       PosY       Rot  Side
+C1        .1uF        C_0603_1608Metric                  -8.5000   -15.0000  -90.0000  bottom
+FID1      Fiducial    Fiducial_0.75mm_Dia_1.5mm_Outer   -22.0000   -19.0000    0.0000  bottom
+FID2      Fiducial    Fiducial_0.75mm_Dia_1.5mm_Outer    20.5000   -19.0000    0.0000  bottom
+FID3      Fiducial    Fiducial_0.75mm_Dia_1.5mm_Outer     0.0000    17.0000    0.0000  bottom
+U1        HallSwitch  SC-59                              -5.0000   -15.0000    0.0000  bottom
+## End
